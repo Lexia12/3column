@@ -6,17 +6,18 @@
   --verylightgray: hsl(0, 0%, 95%);
 }
 
+
 body {
 background: hsl(0, 0%, 95%);
 }
 
 h3 {
-  font-family: Lexend Deca;
+  font-family: 'Lexend Deca', sans-serif;
   color: var(--verylightgray);
   }
 
 p {
- font-family: Big Shoulders Display;
+  font-family: 'Lexend Deca', sans-serif;
   color: var(--transparent-white);
   font-size: 15px;
 }
