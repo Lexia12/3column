@@ -22,7 +22,9 @@ p {
   font-size: 15px;
 }
 
-.sedans {
+.sedans 
+.suvs
+.luxury {
   background-color: var(--sedans-background);
   display: grid; 
   grid-auto-columns: 1fr; 
