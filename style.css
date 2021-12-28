@@ -3,7 +3,7 @@
   --suvs-background: hsl(184, 100%, 22%);
   --luxury-background: hsl(179, 100%, 13%); 
   --transparent-white: hsla(0, 0%, 100%, 0.75);
-  --very-light-gray: hsl(0, 0%, 95%);
+  --verylightgray: hsl(0, 0%, 95%);
 }
 
 body {
@@ -12,6 +12,7 @@ background: hsl(0, 0%, 95%);
 
 h3 {
   font-family: Lexend Deca;
+  color: var(--verylightgray);
   }
 
 p {
