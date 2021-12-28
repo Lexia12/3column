@@ -22,20 +22,8 @@ p {
   font-size: 15px;
 }
 
-.sedans 
-.suvs
-.luxury {
+.sedans  {
   background-color: var(--sedans-background);
-  display: grid; 
-  grid-auto-columns: 1fr; 
-  grid-template-columns: 2fr 2fr 2fr; 
-  grid-template-rows: 1fr; 
-  gap: 0px 0em; 
-  grid-template-areas: 
-    ". . ."; 
-  justify-items: stretch; 
-  width: 70em; 
-  height: 36em; 
 }
 
 .suvs {
