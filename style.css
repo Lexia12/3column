@@ -3,7 +3,7 @@
   --suvs-background: hsl(184, 100%, 22%);
   --luxury-background: hsl(179, 100%, 13%); 
   --transparent-white: hsla(0, 0%, 100%, 0.75);
---very-light-gray: hsl(0, 0%, 95%);
+  --very-light-gray: hsl(0, 0%, 95%);
 }
 
 body {
@@ -17,8 +17,17 @@ h3 {
 p {
  font-family: Big Shoulders Display;
   color: var(--transparent-white);
+  font-size: 15px;
 }
 
 .sedans {
   background-color: var(--sedans-background);
+}
+
+.suvs {
+  backgrounnd-color: var(--suvs-background);
+}
+
+.luxury {
+  background-color: var(--luxury-background);
 }
