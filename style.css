@@ -15,13 +15,13 @@ body {
   grid-template-areas: 
     ". . ."; 
   justify-items: center; 
-  width: 70em; 
-  height: 36em; 
+  width: 80em; 
+  height: 100em; 
   align-items: center;
   vertical-align: middle;
   margin: auto;
 }
-}
+
 
 h3 {
   font-family: 'Lexend Deca', sans-serif;
