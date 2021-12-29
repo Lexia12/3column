@@ -24,6 +24,9 @@ p {
 
 .sedans  {
   background-color: var(--sedans-background);
+  margin: auto;
+  width: 60%;
+  padding: 10px;
 }
 
 .suvs {
