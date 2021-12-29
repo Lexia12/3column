@@ -19,6 +19,7 @@ body {
   width: 70em; 
   height: 36em; 
   align-items: center;
+  vertical-align: middle;
 }
 }
 
