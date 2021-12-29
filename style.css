@@ -8,7 +8,17 @@
 
 
 body {
-background: hsl(0, 0%, 95%);
+  background: hsl(0, 0%, 95%);
+  display: grid; 
+  grid-template-columns: 2fr 2fr 2fr; 
+  grid-template-rows: 1fr; 
+  gap: 0px 0em; 
+  grid-template-areas: 
+    ". . ."; 
+  justify-items: center; 
+  width: 70em; 
+  height: 36em; 
+}
 }
 
 h3 {
@@ -24,9 +34,6 @@ p {
 
 .sedans  {
   background-color: var(--sedans-background);
-  margin: auto;
-  width: 60%;
-  padding: 10px;
 }
 
 .suvs {
