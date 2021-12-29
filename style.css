@@ -15,8 +15,8 @@ body {
   grid-template-areas: 
     ". . ."; 
   justify-items: center; 
-  width: 80em; 
-  height: 100em; 
+  width: 100em; 
+  height: 200em; 
   align-items: center;
   vertical-align: middle;
   margin: auto;
