@@ -45,3 +45,7 @@ p {
 .luxury {
   background-color: var(--luxury-background);
 }
+
+.btn {
+  vertical-align: bottom;
+}
